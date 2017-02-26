@@ -1,0 +1,75 @@
+Commitment :26/02/17 18:34:48 Girl0 is committed to Boy0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Gift Exchange :26/02/17 18:34:48 Boy0 gave a gift to Girl0 
+Commitment :26/02/17 18:34:49 Girl1 is committed to Boy8 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Gift Exchange :26/02/17 18:34:48 Boy8 gave a gift to Girl1 
+Commitment :26/02/17 18:34:49 Girl3 is committed to Boy2 
+Gift Exchange :26/02/17 18:34:48 Boy2 gave a gift to Girl3 
+Gift Exchange :26/02/17 18:34:48 Boy2 gave a gift to Girl3 
+Gift Exchange :26/02/17 18:34:48 Boy2 gave a gift to Girl3 
+Gift Exchange :26/02/17 18:34:48 Boy2 gave a gift to Girl3 
+Gift Exchange :26/02/17 18:34:48 Boy2 gave a gift to Girl3 
+Gift Exchange :26/02/17 18:34:48 Boy2 gave a gift to Girl3 
+Gift Exchange :26/02/17 18:34:48 Boy2 gave a gift to Girl3 
+Gift Exchange :26/02/17 18:34:48 Boy2 gave a gift to Girl3 
+Gift Exchange :26/02/17 18:34:48 Boy2 gave a gift to Girl3 
+Commitment :26/02/17 18:34:49 Girl4 is committed to Boy6 
+Gift Exchange :26/02/17 18:34:48 Boy6 gave a gift to Girl4 
+Gift Exchange :26/02/17 18:34:48 Boy6 gave a gift to Girl4 
+Gift Exchange :26/02/17 18:34:48 Boy6 gave a gift to Girl4 
+Gift Exchange :26/02/17 18:34:48 Boy6 gave a gift to Girl4 
+Gift Exchange :26/02/17 18:34:48 Boy6 gave a gift to Girl4 
+Gift Exchange :26/02/17 18:34:48 Boy6 gave a gift to Girl4 
+Gift Exchange :26/02/17 18:34:48 Boy6 gave a gift to Girl4 
+Gift Exchange :26/02/17 18:34:48 Boy6 gave a gift to Girl4 
+Gift Exchange :26/02/17 18:34:48 Boy6 gave a gift to Girl4 
+Gift Exchange :26/02/17 18:34:48 Boy6 gave a gift to Girl4 
+Gift Exchange :26/02/17 18:34:48 Boy6 gave a gift to Girl4 
+Gift Exchange :26/02/17 18:34:48 Boy6 gave a gift to Girl4 
+Gift Exchange :26/02/17 18:34:48 Boy6 gave a gift to Girl4 
+Commitment :26/02/17 18:34:49 Girl7 is committed to Boy3 
+Gift Exchange :26/02/17 18:34:48 Boy3 gave a gift to Girl7 
+Gift Exchange :26/02/17 18:34:48 Boy3 gave a gift to Girl7 
+Commitment :26/02/17 18:34:49 Girl12 is committed to Boy1 
+Gift Exchange :26/02/17 18:34:48 Boy1 gave a gift to Girl12 
+Gift Exchange :26/02/17 18:34:48 Boy1 gave a gift to Girl12 
+Gift Exchange :26/02/17 18:34:48 Boy1 gave a gift to Girl12 
+Gift Exchange :26/02/17 18:34:48 Boy1 gave a gift to Girl12 
+Gift Exchange :26/02/17 18:34:48 Boy1 gave a gift to Girl12 
+Commitment :26/02/17 18:34:49 Girl14 is committed to Boy5 
+Gift Exchange :26/02/17 18:34:48 Boy5 gave a gift to Girl14 
+Gift Exchange :26/02/17 18:34:48 Boy5 gave a gift to Girl14 
